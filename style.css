@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
 .attribution { 
     font-size: 11px; text-align: center; 
-    margin-bottom: 10px;
+    margin: 10px;
 }
     
 .attribution a { 
@@ -40,6 +40,7 @@ main {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: top;
+    z-index: -1;
 }
 
 h1 {
@@ -62,7 +63,6 @@ img.illustration {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     width: 400px;
-    z-index: 2;
     height: 195.55;
 }
 
@@ -118,7 +118,6 @@ img.icon {
     width: 45px;
     height: 45px;
     transition: all 1s ease-in-out 0s;
-    z-index: 2;
 }
 
 img.icon:hover {
