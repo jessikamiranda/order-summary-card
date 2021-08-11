@@ -31,6 +31,7 @@
 main {
     background-color: #fff;
     width: 400px;
+    height: 560px;
     margin: auto;
     border-radius: 20px;
     display: flex;
@@ -38,6 +39,10 @@ main {
     justify-content: center;
     align-items: center;
     box-shadow: 0 4px 8px 0 hsla(245, 75%, 52%, 0.2);
+    background-image: url("/images/illustration-hero.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
 }
 
 h1 {
@@ -45,6 +50,7 @@ h1 {
     font-size: 26px;
     font-weight: 900;
     margin-top: 40px;
+    padding-top: 12rem;
 }
 
 p {
