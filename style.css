@@ -36,11 +36,10 @@ main {
     justify-content: center;
     align-items: center;
     box-shadow: 0 4px 8px 0 hsla(245, 75%, 52%, 0.2);
-    background-image: url("/images/illustration-hero.svg");
+    background-image: url("/images/illustration-hero.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: top;
-    z-index: -1;
 }
 
 h1 {
