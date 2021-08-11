@@ -4,7 +4,7 @@
 Desafio Frontend Mentor com HTML e CSS
 
 ## 🎨  Layout
-🖥️ Acesse a página clicando [aqui](https://jessikamiranda.github.io/order-summary-card/)
+🖥️ Acesse a página clicando [aqui](https://order-summary-card-eight.vercel.app/)
 
 <img src="/images/tela.png" alt="resultado">
 
