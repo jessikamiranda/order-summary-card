@@ -15,7 +15,7 @@
     font-family: 'Red Hat Display';
 }
 
-.back-image {
+body {
     background-image: url("images/pattern-background-desktop.svg");
     display: flex;
     flex-direction: column;
